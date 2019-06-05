@@ -21,7 +21,7 @@ dependencies {
 
 ## Usage
 
-See [Functional.java](library/src/main/java/me/zhanghai/java/functional/Functional.java). Basically all the functional methods on JavaScript [`Array`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array) are available.
+See [Functional.java](java/src/main/java/me/zhanghai/java/functional/Functional.java). Basically all the functional methods on JavaScript [`Array`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array) are available.
 
 `me.zhanghai.java.functional.throwing` contains the throwing functional interfaces that can be used to achieve exception transparency. For example:
 
