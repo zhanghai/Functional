@@ -26,6 +26,7 @@ package me.zhanghai.java.functional.throwing;
 
 import java9.util.Objects;
 import java9.util.function.DoubleConsumer;
+
 import me.zhanghai.java.functional.FunctionalException;
 
 /**

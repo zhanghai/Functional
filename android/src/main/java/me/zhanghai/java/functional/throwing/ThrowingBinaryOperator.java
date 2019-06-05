@@ -25,7 +25,6 @@
 package me.zhanghai.java.functional.throwing;
 
 import java.util.Comparator;
-
 import java9.util.Objects;
 
 /**

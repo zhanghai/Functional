@@ -6,6 +6,7 @@
 package me.zhanghai.java.functional.throwing;
 
 import java9.util.Objects;
+
 import me.zhanghai.java.functional.FunctionalException;
 import me.zhanghai.java.functional.extension.QuadPredicate;
 

@@ -25,6 +25,7 @@
 package me.zhanghai.java.functional.throwing;
 
 import java9.util.function.ObjIntConsumer;
+
 import me.zhanghai.java.functional.FunctionalException;
 
 /**

@@ -8,16 +8,16 @@ package me.zhanghai.java.functional;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
+import java9.util.Iterators;
 import java.util.List;
 import java.util.ListIterator;
-
-import java9.util.Iterators;
 import java9.util.function.BiConsumer;
 import java9.util.function.BiFunction;
 import java9.util.function.BiPredicate;
 import java9.util.function.Consumer;
 import java9.util.function.Function;
 import java9.util.function.Predicate;
+
 import me.zhanghai.java.functional.extension.QuadFunction;
 import me.zhanghai.java.functional.extension.TriConsumer;
 import me.zhanghai.java.functional.extension.TriFunction;

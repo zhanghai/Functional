@@ -6,7 +6,6 @@
 package me.zhanghai.java.functional.extension;
 
 import java.util.Comparator;
-
 import java9.util.Objects;
 
 @FunctionalInterface

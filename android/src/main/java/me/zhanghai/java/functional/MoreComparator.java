@@ -7,7 +7,6 @@ package me.zhanghai.java.functional;
 
 import java.io.Serializable;
 import java.util.Comparator;
-
 import java9.util.Objects;
 import java9.util.function.Predicate;
 
