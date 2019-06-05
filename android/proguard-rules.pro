@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# R8 removes default methods inside interface even if they are actually used.
+-keepclassmembers class me.zhanghai.java.functional.** { *; }
